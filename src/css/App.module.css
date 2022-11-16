@@ -3,19 +3,18 @@
 }
 
 .logo {
-  animation: logo-spin infinite 20s linear;
-  height: 20vmin;
+  height: 15vmin;
   pointer-events: none;
 }
 
 .header {
-  background-color: #282c34;
-  min-height: 50vh;
+  background-color: #050713;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1vmin);
   color: white;
 }
 
